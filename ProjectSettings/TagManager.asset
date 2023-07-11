@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - Enemy
+  - Collectable
+  - LevelEnd
+  - QuestionBlocks
+  - FireFlowerBlock
+  - FireFlower
+  - PowerUpBlock
+  - Mushroom
+  - CoinBlock
+  - player1
+  - player2
+  - player3
+  - MainMenuButtons
+  - Options
+  - HighScores
+  - PauseMenu
+  - Castle
+  - KoopaTroopa
+  - Range Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Fireballs
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2973415391
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Character
+    uniqueID: 1464062305
+    locked: 0
+  - name: Text
+    uniqueID: 86272709
+    locked: 0
